@@ -1,0 +1,599 @@
+2 2 mul 4 5 mul 5 add 4 4 3 5 4 1 add div add sub mul add add 
+29
+
+5 3 sub 1 5 5 3 4 1 2 1 3 3 2 3 1 2 add add div mul add add div mul mul add add div sub mul 
+2
+
+4 1 add 3 2 1 2 5 2 2 2 mul 1 1 3 4 5 div 5 mul 3 add 1 1 5 4 5 5 5 5 3 add add div sub div add add div mul sub div add mul div sub mul add mul add div 
+0
+
+1 2 3 4 5 4 5 1 2 mul 1 2 3 3 add add div 5 2 3 1 sub 3 4 2 mul div 2 div mul 2 add div sub div mul add add add add add add div 
+0
+
+2 5 add 5 3 3 3 sub sub 2 1 2 add 3 div mul 3 5 3 mul 1 mul div 1 div 4 div add mul 4 mul 2 div 4 5 add add div sub 
+7
+
+2 3 add 5 1 5 5 1 1 5 3 5 3 2 add 5 mul 5 mul 3 add 1 add div mul add div mul add add div sub add 
+10
+
+4 4 add 3 sub 5 add 4 add 1 sub 1 mul 1 4 div 3 div sub 3 sub 
+10
+
+3 2 3 4 2 div 5 div add 4 div 3 2 5 div add 2 2 add add 2 3 div 4 mul mul sub add add 
+5
+
+4 5 div 
+0
+
+5 4 4 4 5 2 div 1 2 2 2 3 2 sub add 4 add 2 1 2 2 mul mul div add div add add mul add add mul add 
+61
+
+1 4 3 1 mul add 5 2 1 2 2 1 3 1 5 5 mul 1 sub 3 4 div mul sub mul mul add div sub sub div div add 
+2
+
+5 4 3 2 div 5 div 1 3 2 5 2 2 div sub 2 1 2 5 1 5 div sub 4 4 2 4 add div sub add div mul add div div add mul add sub sub 
+5
+
+5 2 4 div mul 4 1 sub add 4 4 3 mul 4 2 sub add add add 
+21
+
+3 3 2 add 4 div div 5 mul 2 5 div 2 4 add 1 2 5 add 5 mul 5 add add 4 2 sub add add add add 
+64
+
+5 1 5 add 2 1 4 4 1 4 4 add 1 sub 5 5 4 4 sub sub mul add add add mul add add div sub 
+5
+
+3 
+3
+
+5 1 5 5 1 2 add 4 mul 4 2 1 1 5 4 mul 5 5 3 4 add add add add mul add add add add mul add div add 
+5
+
+5 1 sub 4 5 mul 1 5 2 1 2 4 2 mul 4 4 div 4 3 2 1 4 1 3 5 mul 4 sub 3 mul mul add mul add mul mul mul add add mul mul add div add add 
+24
+
+2 1 2 4 5 1 5 3 5 2 mul 1 4 5 add 5 3 5 add 1 5 mul 5 2 1 5 5 div add sub sub sub add div add mul mul add add add div add add mul mul 
+12
+
+3 5 div 2 mul 4 5 mul add 2 mul 3 5 2 3 add 5 div mul 1 sub div add 5 5 add 2 2 sub add 4 add div 
+2
+
+1 3 4 3 1 3 div add 5 add add 3 2 add 5 add add 1 add 5 5 5 1 5 add mul mul add div sub add 
+4
+
+2 5 4 3 div add div 
+0
+
+5 1 1 1 sub 5 add 4 1 add sub add add 
+6
+
+5 3 sub 4 add 2 add 
+8
+
+5 2 4 5 mul 4 3 2 4 2 div 1 sub add add div add mul div 
+0
+
+4 1 3 2 1 add 3 sub add 1 mul mul div 3 4 mul div 1 3 mul add 
+3
+
+4 4 2 5 4 2 3 3 2 sub add add 4 mul 4 2 5 3 4 5 4 1 add 3 2 5 add add add add div add add mul mul mul add mul add mul div 
+0
+
+5 1 sub 4 1 mul 3 sub 5 4 3 2 add 3 sub 3 div mul add mul mul 
+20
+
+1 4 add 
+5
+
+1 4 3 2 5 1 2 3 2 sub 5 add 1 1 4 div 1 4 div 5 add 3 add mul add div add div add mul add add add 
+18
+
+4 2 1 5 add 3 3 3 div 5 3 div div 4 1 mul 3 4 add 3 5 2 mul add div sub 5 mul 5 4 add 2 div sub add add mul div sub 
+4
+
+3 5 mul 4 2 4 4 3 div 5 add add 1 1 5 4 sub 1 3 5 4 5 add add add 5 4 sub 2 div 3 4 div sub 5 div add add div add add div add add div 
+1
+
+2 4 add 1 2 4 1 5 mul 5 sub add add add add 
+13
+
+3 4 add 1 5 2 1 1 4 div 4 2 2 sub add 1 5 add 5 div sub div sub sub add div mul 
+0
+
+3 4 5 div 3 3 5 1 2 2 div 2 1 add add div add div sub mul add 
+3
+
+3 1 sub 4 1 add 3 5 2 5 4 sub 2 3 1 1 3 3 sub 5 1 2 add mul mul sub div add add mul add add mul add div 
+0
+
+2 1 5 div 1 4 5 1 div 2 mul 3 3 3 2 sub 1 div 5 1 4 mul div div div div add add div mul sub 
+2
+
+5 4 3 mul 1 5 div add 3 1 4 5 4 add 2 div add 3 2 div add 2 mul 1 div 4 div add add mul div 
+0
+
+2 4 2 div 2 add mul 5 4 5 4 sub div 2 1 add add add add 
+20
+
+2 5 4 1 3 add 4 3 5 3 1 1 2 4 div 4 2 sub 1 1 5 1 2 div 5 mul 2 1 div mul 3 add add mul add div add sub div mul add add add add div sub div 
+0
+
+2 4 add 5 4 div mul 4 2 add 3 div sub 5 4 mul 3 div 1 2 mul div mul 
+12
+
+2 4 4 mul 2 mul 2 sub 5 4 3 1 1 4 5 div 2 1 2 2 mul add div add sub sub add sub mul div div 
+0
+
+2 4 2 4 1 3 1 5 add 1 4 3 3 mul add mul add mul add add add add div 
+0
+
+1 3 1 3 5 1 4 2 sub 5 div mul add add mul add add 
+12
+
+5 3 2 4 2 1 3 3 5 5 2 3 3 add 2 3 1 sub 2 div 2 3 div 4 add 2 5 mul 5 mul add mul add add div add add add div sub sub mul div add add 
+8
+
+3 2 1 sub 2 add div 2 1 1 1 1 mul sub 2 3 add 5 3 add 3 sub mul 4 mul div 5 mul 3 2 2 5 3 1 add mul add add div add add div add 
+3
+
+4 2 3 mul div 1 4 4 3 4 5 1 4 3 mul add 2 4 mul mul 1 sub 4 div 1 3 mul 5 3 sub add add mul div sub sub div add add 
+5
+
+5 1 5 add div 1 mul 3 mul 
+0
+
+1 4 2 mul add 1 add 4 div 1 mul 
+2
+
+2 1 3 3 5 5 1 1 1 5 3 4 add 2 div 1 2 mul sub sub 1 5 add 1 4 3 add add 3 add 1 add add 4 div add mul add add add add div sub add add 
+6
+
+1 36 9 sub 30 11 add 29 div 37 8 mul add mul div 
+0
+
+41 44 mul 31 15 3 13 9 sub 31 33 36 div sub mul add mul mul div 
+0
+
+50 49 19 12 46 31 8 15 30 38 mul 12 add 12 21 add 16 sub div mul add add add div add add add 
+118
+
+25 25 div 
+1
+
+36 40 add 10 14 mul div 27 18 mul 47 47 43 32 38 div mul add sub mul mul 
+0
+
+39 5 18 12 26 div 8 div mul 44 add 40 36 mul add mul mul 
+289380
+
+35 47 5 18 23 50 11 48 37 mul 12 mul 49 39 43 5 24 mul mul add div add add add mul add div add add 
+82
+
+33 17 2 mul 24 div 38 27 36 mul 26 42 add 45 36 22 11 16 mul add add mul add add add add mul 
+383097
+
+21 18 add 32 5 24 41 div 42 9 sub mul 15 23 35 34 add 41 38 div 47 14 add add add add div sub sub sub mul 
+1053
+
+7 26 add 12 add 40 div 
+1
+
+49 
+49
+
+5 40 41 49 mul 44 sub div 39 7 50 49 43 43 mul 33 sub add add add add add add 
+1966
+
+13 32 div 38 add 33 48 1 2 add 11 7 9 mul 7 40 17 34 add 43 mul div mul add mul mul div sub sub 
+5
+
+9 31 div 
+0
+
+3 38 47 5 mul 44 35 mul add 9 add 39 17 21 div mul 12 add 16 9 add add 35 30 div 15 add mul sub div add 
+3
+
+28 25 42 13 45 mul mul add mul 
+688660
+
+1 41 24 47 11 35 add div 11 add sub 43 11 div 32 36 12 sub 44 div add 15 add 49 30 23 5 47 add 50 39 div sub add div mul add div add div div 
+0
+
+30 29 sub 36 div 10 add 
+10
+
+46 13 add 29 13 5 27 add 34 23 1 5 37 5 40 13 45 19 sub 35 4 div 19 11 sub div div div mul sub add mul add div mul add add mul add 
+1364
+
+40 34 17 38 17 add mul 40 7 44 2 mul div add 37 sub 8 13 22 12 mul 11 47 16 50 add mul 22 28 44 30 4 add 26 35 add add mul add mul add add add mul add add add mul add 
+42443430
+
+36 
+36
+
+43 2 23 25 1 15 add 31 mul 13 46 4 div 28 7 div 49 9 div 15 div mul sub div sub div add add sub 
+18
+
+38 43 add 47 32 12 11 mul mul 40 add div 38 19 14 23 mul 19 43 8 45 add 5 add 22 mul 48 mul mul add add add div mul add 
+81
+
+50 21 1 49 7 add 22 46 19 24 14 2 add mul mul add div add mul mul mul 
+58800
+
+45 9 mul 25 11 div 38 add 16 add mul 42 35 23 2 div 7 21 25 div add 35 26 div add add div mul add 
+22722
+
+15 34 15 16 17 mul add mul mul 
+146370
+
+28 14 41 27 sub 6 25 13 11 div 8 add sub mul mul add div 
+0
+
+2 4 4 mul add 21 45 37 add mul add 24 add 25 4 mul add 
+1864
+
+26 14 19 50 48 mul 4 27 1 div 7 8 add 37 33 7 10 mul 1 add 31 15 22 add 30 sub div sub mul div mul mul mul mul add add mul 
+858
+
+46 44 42 sub sub 22 sub 12 26 26 15 14 div 47 add mul mul add mul 
+714120
+
+28 3 36 35 9 add 27 sub sub 6 4 17 18 21 div 22 11 add 46 48 24 sub div div add div sub sub sub mul add 
+79
+
+2 17 37 22 24 41 32 mul div 31 add 31 add div add 48 18 50 10 30 add sub sub 19 5 46 div mul add mul add div mul 
+0
+
+16 25 25 39 mul 22 17 26 40 46 21 27 22 43 49 9 29 50 39 18 20 mul mul mul 41 div add add mul mul div mul add sub mul add add div add div mul 
+0
+
+15 37 6 28 add 23 15 36 22 29 42 30 29 37 27 5 29 add 35 44 mul add mul add add add mul add div mul add add add add add 
+124
+
+26 21 42 34 sub add div 
+0
+
+38 22 18 add add 27 div 46 30 div 31 add 42 4 mul 9 10 add sub div 6 26 div 45 12 div 39 49 add 22 36 27 19 add mul add add add div mul mul 
+0
+
+12 4 50 div 17 add add 
+29
+
+6 24 add 44 11 32 div 32 3 div mul add mul 
+1320
+
+48 37 15 16 add div sub 
+47
+
+50 26 sub 1 19 7 40 22 add 2 add div 20 mul 20 15 50 34 46 add add add add mul mul add mul 
+24
+
+9 4 15 5 div sub div 30 mul 
+270
+
+50 13 add 1 50 14 15 17 30 add add 1 39 36 31 14 sub 17 40 mul 14 div div sub mul mul add mul div sub add 
+64
+
+50 3 add 13 mul 
+689
+
+19 34 add 4 sub 1 div 8 46 add add 37 10 add 35 33 sub sub sub 
+58
+
+37 44 49 14 40 div 31 17 mul 5 27 28 39 div mul mul mul add sub mul add 
+2193
+
+14 13 10 div 30 24 47 46 16 27 12 5 41 18 add 49 mul 19 49 6 div mul add add add add mul add add div mul mul add 
+14
+
+8 1 add 
+9
+
+41 19 mul 9 18 div sub 
+779
+
+41 44 15 mul add 3 sub 6 29 mul add 36 sub 39 div 36 30 11 3 mul 4 21 div sub 18 27 30 1 12 46 add 18 add add div mul sub mul mul mul div 
+0
+
+32 27 18 16 31 13 15 26 add 14 43 div 39 div 34 div 28 35 30 12 sub 25 37 div add mul 8 41 add div add mul add mul add add add mul add 
+16178
+
+72 157 203 5 224 div 246 241 add 195 41 238 170 204 57 add add add 79 215 234 div 130 div sub mul mul add div sub add div add 
+72
+
+167 24 16 113 139 249 207 27 20 125 42 86 add mul add div mul mul sub add mul add mul 
+677352
+
+79 63 226 134 233 243 add add mul 2 add 63 106 235 140 50 97 mul add 92 81 div 127 24 84 mul 61 7 121 163 div 181 140 div mul add sub mul add mul add add add add add add div 
+0
+
+146 81 90 224 108 mul add 219 15 180 243 66 mul 236 22 83 229 213 sub mul add mul add add add mul div sub div 
+1
+
+94 233 add 27 28 div 217 div add 154 110 add sub 233 145 div 204 div 238 div 56 add 201 21 77 div add add add 65 14 248 mul 29 div div add 
+320
+
+216 119 sub 28 188 105 mul 181 sub 46 add 176 div add 222 215 mul 46 202 56 13 83 116 109 mul 11 231 105 142 div add add sub div sub add sub mul mul div add 
+97
+
+58 26 mul 166 102 147 169 161 160 233 221 151 42 sub add 107 139 40 84 mul div add add add add div add div sub div add 
+1509
+
+127 3 186 73 63 68 mul 202 214 223 div 2 185 205 mul 7 6 220 add div sub div add mul add add add add add 
+4673
+
+223 164 107 194 129 144 205 126 sub 196 225 93 217 143 227 add 166 mul 43 16 55 div 200 240 103 159 255 223 sub div mul mul div add add sub div sub sub div div sub mul add mul add add 
+918340
+
+84 30 197 78 85 add 254 99 238 mul add mul mul div add 
+84
+
+142 41 146 105 mul mul 213 141 14 10 91 add 159 178 39 108 div 72 210 add mul sub 40 mul mul add div add div add add 
+628673
+
+220 81 sub 215 238 mul mul 
+7112630
+
+123 149 mul 114 179 203 add 199 128 16 217 add 252 22 mul 172 111 106 241 54 add 148 sub 71 add mul div add sub mul mul add add add add 
+160233550
+
+13 87 91 137 210 218 add 20 213 97 230 div 134 126 236 145 180 add div 71 div add add mul sub div sub div add add div 
+0
+
+211 244 82 sub 9 add 121 119 186 add 218 132 85 200 add 175 214 120 123 235 add 61 86 121 188 191 178 77 add div add add add add add add div add add div mul add add add mul 
+125967
+
+207 90 66 117 add 38 add 222 add add 186 131 243 52 138 div 25 add add add 37 237 248 add mul mul mul div sub 
+207
+
+153 177 168 add add 
+498
+
+106 26 4 mul 26 sub mul 247 228 79 sub sub 221 50 78 div add 62 sub 207 224 add 184 80 205 add add mul div sub add 
+8366
+
+82 62 mul 205 53 51 sub 54 mul add mul 152 212 mul 143 sub 70 34 45 19 49 add add 165 3 sub 104 mul 63 100 div mul add div sub mul add 
+3836962
+
+188 96 213 20 add 29 div 187 60 mul 66 22 201 196 25 143 30 130 4 mul mul 137 77 92 3 129 34 255 div 25 225 142 add add mul sub add div sub div add mul add div add add add div add mul div 
+0
+
+80 196 add 31 116 242 145 65 div mul 188 sub div add add 
+307
+
+153 14 188 div sub 232 add 151 sub 44 sub 82 mul 144 109 81 49 160 add 10 div 144 117 120 20 div sub sub mul add add add sub 
+14586
+
+115 
+115
+
+146 34 add 13 21 mul mul 98 add 175 sub 103 93 39 84 add 218 129 172 241 163 60 164 add 111 155 div sub 95 23 5 67 div add 103 div add mul add mul div add sub div mul div add 
+49064
+
+62 224 71 253 37 112 add sub 15 mul 118 div 40 204 div add 43 122 mul 249 194 253 62 126 div 95 9 div add div add sub sub div add mul div 
+0
+
+5 94 217 250 mul 92 add 177 145 111 sub mul mul add add 
+327030255
+
+56 91 191 23 59 37 64 add 243 div mul sub add mul div 
+0
+
+68 7 div 
+9
+
+214 245 div 103 add 200 mul 178 9 sub sub 
+20431
+
+192 175 155 249 66 155 45 51 34 40 mul add mul mul add add div add sub 
+17
+
+84 138 154 193 18 196 203 30 166 mul add 124 39 mul 165 add div div add mul mul add add 
+6360730
+
+244 248 div 104 105 179 mul 48 64 add 139 216 div add add div add 
+0
+
+116 246 mul 236 add 193 253 mul div 40 14 div 240 mul 51 124 div add div 
+0
+
+223 100 sub 254 235 30 sub 4 sub 146 div div 67 div sub 
+120
+
+94 65 sub 232 103 sub 134 200 3 mul 7 91 add mul 26 58 mul mul 180 33 div 191 add sub 117 59 167 229 67 173 159 45 mul 169 add add add add add add add add add add add 
+88678632
+
+202 215 215 148 113 66 div 203 23 sub add 225 mul add div mul add 
+202
+
+165 54 210 59 95 17 31 228 133 mul add div add div add mul add 
+11505
+
+134 238 84 1 sub 220 135 235 add 187 79 252 200 sub 190 180 sub sub 209 div add div div 60 222 mul add 161 add add add add add 
+14341
+
+240 131 114 12 add 241 mul add mul 
+7319280
+
+166 117 sub 9 sub 210 add 
+250
+
+127 52 mul 179 70 add mul 193 sub 210 add 172 73 138 add add 157 114 16 177 add add div add sub 
+1644030
+
+106 20 195 98 93 39 175 252 add 127 167 237 84 sub 133 42 126 126 234 118 205 mul add mul div add add add add div sub add add add add add add 
+978
+
+91 58 179 add add 71 26 108 81 add 162 160 140 214 div 105 214 67 86 add 116 10 6 186 13 add 178 mul 107 98 sub add add add add mul add add div add add add div sub add 
+399
+
+254 89 170 150 100 74 80 219 194 103 182 add 53 sub 241 68 16 239 add add 208 68 196 mul mul add add div sub add mul mul mul div add mul add 
+15384
+
+173 63 sub 
+110
+
+43 226 182 117 98 211 add 214 159 64 216 mul div 201 mul sub sub sub mul 139 157 add add 107 div 42 mul div mul 
+0
+
+5 24 123 add 47 46 45 133 245 229 236 56 231 175 mul 187 251 204 mul 192 add div add add add mul add div add sub sub mul add 
+6767
+
+218 232 189 139 189 mul 236 mul 109 sub 22 103 172 add add div mul mul add 
+915283370
+
+22 207 232 203 div div div 161 189 add 212 60 sub 187 div 254 254 248 235 sub add add add mul mul 
+0
+
+83 127 145 5 13 108 add div 255 127 124 mul 118 div 90 87 sub 56 15 71 add 142 129 sub 21 216 div add div add div add add add add mul div 
+0
+
+165 159 223 44 253 add add mul add 
+82845
+
+217 66 add 
+283
+
+149 245 mul 161 sub 84 158 70 div sub 227 159 55 245 111 79 21 123 div 7 add add add add add add mul div sub 
+36344
+
+123 214 210 87 189 mul 106 29 sub 174 add 187 div mul div 223 27 204 81 172 255 248 add div add div mul mul div add add 
+337
+
+208 28 102 76 99 84 52 sub add 150 210 126 46 div mul add 84 sub add mul mul div add 
+208
+
+130 218 120 247 add 47 233 198 107 142 div sub add mul div sub mul 
+28340
+
+170 199 add 197 118 236 213 add 215 3 202 31 mul div sub div 178 mul 35 mul 147 mul mul 100 add 66 sub add add 
+216131760
+
+21 27 111 91 add 153 div mul add 18 39 146 78 add 96 111 233 add add add div add mul 
+864
+
+22 
+22
+
+226 34 239 1 248 164 div 254 182 182 201 58 108 225 171 sub mul div add mul div sub add mul add mul mul 
+3795896
+
+24 10 mul 43 176 mul 92 241 55 add 72 mul mul add add 
+1968512
+
+202 169 67 80 4 mul div add div 
+1
+
+164 253 217 2 div mul 105 sub 83 76 115 194 mul 233 mul 193 164 218 32 mul 188 54 236 236 div div div mul div sub add add div add div 
+0
+
+69 188 add 161 add 65 231 div 244 138 201 138 div 39 206 div add 237 div add mul add add 
+34090
+
+70 144 202 27 sub mul add 153 129 148 152 div mul 20 161 127 div mul add mul div 
+8
+
+208 114 166 94 149 249 mul mul add 28 130 mul 199 126 231 mul add div 178 207 134 sub 86 div sub add mul add add 
+620803802
+
+179 103 80 29 mul add 114 add 174 sub div 
+0
+
+242 115 232 215 div 171 192 218 207 146 2 mul mul add div mul mul mul sub 
+242
+
+246 144 div 108 add 53 182 add 150 53 201 mul 60 div div sub div 
+0
+
+25 152 44 sub 255 4 div 186 add div add 
+25
+
+251 5 add 227 222 254 244 70 195 add div mul mul add div 
+1
+
+169 
+169
+
+194 79 sub 154 mul 43 18 113 add 206 53 90 247 119 52 93 mul mul div sub add sub mul mul add 
+372589
+
+134 24 add 158 16 28 mul add 108 67 220 mul 207 210 add 250 231 234 mul 155 232 130 div sub 97 add 34 div div div sub mul div sub mul 
+95748
+
+225 230 52 div 123 add 242 234 mul 75 sub add 175 162 add 214 div 5 add mul div 
+0
+
+120 151 122 116 13 174 113 div 10 add 237 add 114 mul mul 97 add 61 sub 70 53 div 28 mul mul 241 27 mul div 161 84 sub 54 27 sub mul add mul mul add add 
+51796591
+
+30 6 sub 38 112 add 149 10 188 97 div 210 add add add mul div 
+0
+
+83 234 10 div 63 168 mul 25 220 229 div 133 68 58 82 245 add add add add 208 div 86 95 add add div mul add add div 
+0
+
+41 156 div 48 142 54 206 254 81 250 div 91 15 146 179 20 17 55 add add 46 71 add mul add div sub sub add div mul mul div sub add 
+48
+
+63 23 mul 121 18 172 245 108 210 139 19 180 57 224 182 90 86 3 add 53 92 239 div 105 255 205 div sub add mul add div mul add div add div add add mul add div mul sub add 
+1570
+
+2 161 add 186 add 183 51 89 254 113 div sub div 187 166 52 186 202 116 div sub div mul mul add mul add 
+349
+
+115 226 55 223 div sub mul 
+25990
+
+9 158 62 mul add 181 122 165 mul 231 151 mul 159 sub 89 div sub add div 
+0
+
+141 223 add 91 139 66 add 4 add 86 mul 6 233 90 31 mul 143 mul mul add add add add 
+92978445
+
+10 222 80 sub 94 56 sub 209 25 162 161 56 74 178 mul 211 126 2 150 add 113 134 175 add div add div mul add mul add div sub mul div add add 
+152
+
+147 190 mul 152 156 156 div add 240 mul 220 149 203 67 174 div mul 172 172 div add mul mul sub sub 
+23990
+
+189 66 58 149 75 190 mul 160 177 169 add 247 166 mul add 233 245 mul 117 174 35 11 115 253 190 246 add add 37 98 14 div mul add mul add div mul add mul add mul add add div add sub 
+123
+
+217 55 31 79 div 183 63 182 add add div add mul 
+11935
+
+199 20 div 206 120 mul div 
+0
+
+195 244 mul 86 163 112 9 53 115 239 add 186 sub 248 43 249 127 67 sub 142 add div mul sub add add div mul add div mul 
+0
+
+138 57 229 42 110 add 208 add mul 131 247 60 mul 223 add 15 66 252 35 201 add 123 151 189 add 108 75 sub 153 mul 166 mul add mul div mul add add div mul sub div add 
+138
+
+15 38 mul 236 159 sub div 130 195 30 122 147 6 57 215 12 add 114 167 54 37 104 105 16 13 sub div 157 add mul 149 64 133 56 126 add add mul div add div sub add add mul div add div sub add mul add mul 
+175630
+
+155 154 106 119 8 div 10 185 44 164 230 12 mul add 113 div 87 173 192 219 131 add 52 add 130 168 mul add add add add mul add div add mul div add sub 
+1
+
+163 207 div 
+0
+
+18 72 68 121 mul 181 59 174 mul 3 237 add 111 mul add 185 add 140 169 mul add mul div sub mul 
+1296
+
+45 205 add 84 25 157 208 div add 162 203 109 241 div add 216 12 div div 21 128 175 88 52 30 24 144 div mul 134 244 add add mul mul mul add add div add add add div 
+0
+
+73 119 106 50 70 153 158 6 45 add mul mul 102 58 40 sub mul add 63 12 115 65 31 sub 1 150 110 92 44 div 184 194 div sub div mul add add mul div add mul add add add div mul 
+0
+
+174 104 add 131 183 add div 59 49 221 202 243 div sub mul add 251 171 sub 141 173 11 133 add sub 198 90 128 div 174 div add div sub add div add 
+49
+
+82 165 add 163 add 255 101 37 sub 230 242 124 117 234 add add add div mul sub sub 
+155
+
+250 198 sub 35 mul 80 div 32 232 181 250 125 135 add 159 130 sub 173 add sub sub add add div add 
+22
